@@ -1,0 +1,14 @@
+{
+  "name": "fancy-text-generator",
+  "version": "1.1.0",
+  "description": "Whether you're building a social media app, creating dynamic web pages, or simply having fun with styled text, fancy-text-generator https://thefancytext.com/ makes it easy to give your text that extra flair.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+   "Fancy Text", "Stylish Text", "Unicode Styles", "Text Generator", "Decorative Text", "Text Effects"
+  ],
+  "author": "Grace Hopper",
+  "license": "ISC"
+}
