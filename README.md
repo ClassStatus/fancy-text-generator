@@ -2,7 +2,7 @@
 its npm package to create fancy text using this lab
 # Fancy Text Generator
 
-[Fancy Text Generator](https://thefancytext.com) is a Node.js module that allows you to generate fancy and stylish text using various decorative fonts and styles. Perfect for adding flair to your web app. use below keys
+[Fancy Text Generator](https://www.thefancytext.com) is a Node.js module that allows you to generate fancy and stylish text using various decorative fonts and styles. Perfect for adding flair to your web app. use below keys
 Bold,
 Italic,
 BoldItalic,
